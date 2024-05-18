@@ -1,0 +1,14 @@
+.feedbackList {
+  margin: 10px 0;
+  padding: 0;
+}
+.feedbackListItem {
+  list-style-type: none;
+}
+.totalFeedback {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+.positivePercentage {
+  margin-top: 0;
+}
